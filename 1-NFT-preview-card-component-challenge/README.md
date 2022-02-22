@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sonersimsekdev/frontendmentor.io-challenges/tree/main/1-NFT-preview-card-component-challenge)
+- Solution URL: [Solution](https://github.com/sonersimsekdev/frontendmentor.io-challenges/tree/main/1-NFT-preview-card-component-challenge)
 - Live Site URL: [Live Demo](https://sonersimsekdev.github.io/frontendmentor.io-challenges/1-NFT-preview-card-component-challenge/index.html)
 
 ## My process
