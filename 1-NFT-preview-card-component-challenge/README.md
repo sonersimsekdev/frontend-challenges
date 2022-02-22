@@ -16,7 +16,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -52,7 +51,7 @@ Users should be able to:
 ### Continued development
 
 ### Useful resources
-
+- image hover effects [src](https://codepen.io/sosuke/pen/Pjoqqp?editors=0010)
 
 ## Author
 

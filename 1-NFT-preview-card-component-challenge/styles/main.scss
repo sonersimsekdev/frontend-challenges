@@ -18,18 +18,24 @@ body {
     color: $neutral_white;
     background-color:$neutral_very_dark_blue_card_bg;
     padding: 20px;
+   
     .main-img {
         width: 100%;
         height: auto;
         object-fit: cover;
         border-radius: 20px;
         margin-bottom: 10px;
-    }
-    .main-img:hover {
-        /**/
-        color: $primary_cyan;
+        
     }
 
+    .main-img:hover  {
+       
+        border-radius: 20px;
+        filter: invert(58%) sepia(94%) saturate(3847%) hue-rotate(162deg) brightness(95%) contrast(101%);
+        background-image: url(../images/icon-view.svg);
+        
+    }
+    
     .header p {
         font-size: $font_size_p;
         overflow-wrap: break-word; 

@@ -68,8 +68,10 @@ body {
 }
 
 .card .main-img:hover {
-  /**/
-  color: #00fff7;
+  border-radius: 20px;
+  -webkit-filter: invert(58%) sepia(94%) saturate(3847%) hue-rotate(162deg) brightness(95%) contrast(101%);
+          filter: invert(58%) sepia(94%) saturate(3847%) hue-rotate(162deg) brightness(95%) contrast(101%);
+  background-image: url(../images/icon-view.svg);
 }
 
 .card .header p {
