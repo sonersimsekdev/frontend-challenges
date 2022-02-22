@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/sonersimsekdev/frontendmentor.io-challenges/tree/main/1-NFT-preview-card-component-challenge)
+- Live Site URL: [Live Demo](https://sonersimsekdev.github.io/frontendmentor.io-challenges/1-NFT-preview-card-component-challenge/index.html)
 
 ## My process
 
@@ -56,9 +56,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [https://sonersimsekdev.github.io/](https://sonersimsekdev.github.io/)
+- Frontend Mentor - [@sonersimsekdev](https://www.frontendmentor.io/profile/sonersimsekdev)
 
 
 ## Acknowledgments
