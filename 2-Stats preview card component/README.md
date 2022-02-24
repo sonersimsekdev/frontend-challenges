@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [my solution](https://github.com/sonersimsekdev/frontendmentor.io-challenges/tree/main/2-Stats%20preview%20card%20component)
+- Live Site URL: [Live Demo](https://sonersimsekdev.github.io/frontendmentor.io-challenges/2-Stats%20preview%20card%20component/index.html)
 
 ## My process
 
