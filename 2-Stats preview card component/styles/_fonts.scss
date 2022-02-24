@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Inter400;
+    src: url(../fonts/Inter-Regular.ttf);
+}
+@font-face {
+    font-family: Inter700;
+    src: url(../fonts/Inter-Bold.ttf);
+}
+@font-face {
+    font-family: LexendDeca700;
+    src: url(../fonts/LexendDeca-Regular.ttf);
+}
+
+$fontInter400: Inter400;
+$fontInter700: Inter700;
+$fontLexendDeca700: LexendDeca700;

@@ -1,0 +1,123 @@
+@import "./resets";
+@import "./colors";
+@import "./fonts";
+
+/*
+        -Mobile: 375px
+        - Desktop: 1440px
+*/
+
+body {
+  display: flex;
+  background-color: $main_background;
+  height: 100vh;
+  font-size: 15px;
+  justify-content: center;
+  align-items: center;
+  font-family: $fontInter400;
+  color: $main_paragraph;
+  box-sizing: border-box;
+}
+.card {
+  display: flex;
+  background-color: $card_background;
+  width: 1000px;
+  height: auto;
+  border-radius: 20px;
+
+  img {
+    width: auto;
+    height: 100%;
+    filter: brightness(30%) sepia(100%) hue-rotate(-480deg) saturate(800%);
+  }
+
+  .card-left-side {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    flex-direction: column;
+
+    .top-text {
+      text-align: left;
+      color: $main_heading_stats;
+      .purpleWord {
+        color: $accent;
+      }
+    }
+    .top-bottom-text {
+      margin-top: 30px;
+    }
+
+    .bottom-text {
+      display: flex;
+      width: 100%;
+      justify-content: space-between;
+    }
+  }
+}
+
+.inside-words-head {
+  color: $main_heading_stats;
+  font-weight: 700;
+}
+
+.inside-words-body {
+  color: $stat_headings;
+  font-family: $fontLexendDeca700;
+  text-transform: uppercase;
+}
+
+@media only screen and (min-width: 601px) {
+  .main-image {
+    display: block;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  .mobile-image {
+    display: none;
+  }
+
+  .card-left-side {
+    padding: 20px 40px;
+    margin-right: 40px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .main-image {
+    display: none;
+  }
+  .mobile-image {
+    display: inline-flex;
+    max-width: 100%;
+    height: auto;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+  }
+  .card {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    width: 85vw;
+  }
+  .card-left-side {
+    margin: 20px;
+  }
+  .top-text {
+    h1,
+    p {
+      text-align: center;
+      margin-top: 10px;
+    }
+  }
+
+  .bottom-text {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    p {
+      margin-top: 10px;
+    }
+  }
+}
