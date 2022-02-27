@@ -1,4 +1,4 @@
-# frontendmentor.io-challenges
+# frontendmentor.io-challanges
 
 #1 NFT preview card component-challenge
 >
